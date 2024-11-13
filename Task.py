@@ -34,7 +34,7 @@ class MainGUI:
         self.window.mainloop()
 
     def play_music(self):
-        pygame.mixer.music.load("EV.mp3")
+        pygame.mixer.music.load("Every body dance now.mp3")
         pygame.mixer.music.play(-1) 
 
     def change_background_color(self):
