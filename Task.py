@@ -6,7 +6,7 @@ import threading
 class MainGUI:
     def __init__(self):
         self.window = Tk()
-        self.window.title("let's go 🤞🏼")
+        self.window.title("let's go 🤘")
 
         pygame.mixer.init()  
 
